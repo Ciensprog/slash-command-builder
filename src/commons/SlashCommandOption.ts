@@ -3,7 +3,7 @@ import { isUndefined } from 'lodash';
 import {
   ApplicationCommandOptionTypes,
   ApplicationCommandOptionStructure,
-} from '@src/interfaces';
+} from '../interfaces';
 
 /*
 |--------------------------------------------------------------------------

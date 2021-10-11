@@ -1,6 +1,6 @@
-import { ApplicationCommandOptionTypes } from '@src/interfaces';
+import { ApplicationCommandOptionTypes } from '../interfaces';
 
-import SlashCommandOption from '@common/SlashCommandOption';
+import SlashCommandOption from '../commons/SlashCommandOption';
 
 /*
 |--------------------------------------------------------------------------

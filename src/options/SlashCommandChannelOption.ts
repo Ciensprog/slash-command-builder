@@ -4,9 +4,9 @@ import {
   ApplicationCommandOptionStructure,
   ApplicationCommandOptionTypes,
   ChannelTypes,
-} from '@src/interfaces';
+} from '../interfaces';
 
-import SlashCommandOption from '@common/SlashCommandOption';
+import SlashCommandOption from '../commons/SlashCommandOption';
 
 /*
 |--------------------------------------------------------------------------

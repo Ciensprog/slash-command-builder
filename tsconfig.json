@@ -39,10 +39,6 @@
     "inlineSources": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "paths": {
-      "@src/*": ["*"],
-      "@common/*": ["commons/*"],
-      "@option/*": ["options/*"]
-    }
+    "paths": {}
   }
 }

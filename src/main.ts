@@ -6,9 +6,9 @@ import {
   ApplicationCommandOptionTypes,
   ApplicationCommandTypes,
   CommonPropertiesAndMethods,
-} from '@src/interfaces';
+} from './interfaces';
 
-import SlashCommandMethods from '@common/SlashCommandMethods';
+import SlashCommandMethods from './commons/SlashCommandMethods';
 
 /*
 |--------------------------------------------------------------------------

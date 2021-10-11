@@ -1,17 +1,17 @@
 import { isFunction } from 'lodash';
 
-import { ApplicationCommandOptionStructure } from '@src/interfaces';
+import { ApplicationCommandOptionStructure } from '../interfaces';
 
-import SlashCommandOption from '@common/SlashCommandOption';
+import SlashCommandOption from './SlashCommandOption';
 
-import SlashCommandBooleanOption from '@option/SlashCommandBooleanOption';
-import SlashCommandChannelOption from '@option/SlashCommandChannelOption';
-import SlashCommandIntegerOption from '@option/SlashCommandIntegerOption';
-import SlashCommandMentionableOption from '@option/SlashCommandMentionableOption';
-import SlashCommandNumberOption from '@option/SlashCommandNumberOption';
-import SlashCommandRoleOption from '@option/SlashCommandRoleOption';
-import SlashCommandStringOption from '@option/SlashCommandStringOption';
-import SlashCommandUserOption from '@option/SlashCommandUserOption';
+import SlashCommandBooleanOption from '../options/SlashCommandBooleanOption';
+import SlashCommandChannelOption from '../options/SlashCommandChannelOption';
+import SlashCommandIntegerOption from '../options/SlashCommandIntegerOption';
+import SlashCommandMentionableOption from '../options/SlashCommandMentionableOption';
+import SlashCommandNumberOption from '../options/SlashCommandNumberOption';
+import SlashCommandRoleOption from '../options/SlashCommandRoleOption';
+import SlashCommandStringOption from '../options/SlashCommandStringOption';
+import SlashCommandUserOption from '../options/SlashCommandUserOption';
 
 /*
 |--------------------------------------------------------------------------
