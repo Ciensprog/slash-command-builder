@@ -1,0 +1,13 @@
+
+# Builds/Production
+build
+dist
+
+# Logs & Storage
+
+
+# Configuration
+node_modules
+
+# External files
+*.json
