@@ -1,7 +1,7 @@
 {
   "name": "slash-command-builder",
   "description": "Create a JSON structure to send to the Discord API and register your Slash Commands",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "bot",
     "builder",
